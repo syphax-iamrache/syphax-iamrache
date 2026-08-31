@@ -47,5 +47,5 @@ Audit automatisé d'un serveur Linux avec Bash.
 * Monitoring avec Prometheus & Grafana
 
 ## 📫 Contact
-Email : iamrachesyphax@gmail.com
-https://www.linkedin.com/in/syphax-iamrache-ba2a4435a/
+* Email : iamrachesyphax@gmail.com
+* Linkedin : https://www.linkedin.com/in/syphax-iamrache-ba2a4435a/
